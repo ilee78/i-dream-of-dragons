@@ -4,6 +4,5 @@ an interactive fiction game by isabelle "Q" lee
 
 ![cover image of 'i dream of dragons'](/1.png)
 
-## premise
-![](/2.png)
-![](/3.png)
+### premise
+![](/summary.png)
