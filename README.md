@@ -3,7 +3,7 @@
 
 ![cover image of 'i dream of dragons'](/1.png)
 
-### (play on itch.io)[https://hyphenq.itch.io/i-dream-of-dragons]
+### [available on itch.io](https://hyphenq.itch.io/i-dream-of-dragons)
 
 ## premise
 ![](/2.png)
