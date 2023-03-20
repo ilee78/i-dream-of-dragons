@@ -79,7 +79,9 @@ Though the names of all the villages are not explicitly stated, each of the seve
 
 Additionally, each character’s name is significant, and the meaning of their name is intended to complement the meaning of their assigned guardian’s name.
 
-  <div align="left"> 
+</div>
+
+<div align="left"> 
     
 - Dan-bi (단비, pronounced *danbi*)
   - Role: Main character
@@ -118,5 +120,5 @@ Additionally, each character’s name is significant, and the meaning of their n
 - San-ai (산 아이, pronounced *sanai*)
   - Term for the children who were born and raised in the mountain and whose parents left the seven villages 
   - Meaning: mountain child
-  </div>
+
 </div>
