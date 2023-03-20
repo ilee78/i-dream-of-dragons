@@ -1,5 +1,3 @@
-<div align="center">
-
 ## "i dream of dragons"
 
 an interactive fiction game by isabelle "Q" lee
@@ -78,5 +76,42 @@ Though the names of all the villages are not explicitly stated, each of the seve
 </table>
 
 Additionally, each character’s name is significant, and the meaning of their name is intended to complement the meaning of their assigned guardian’s name.
+  
+- Dan-bi (단비, pronounced *danbi*)
+  - Role: Main character
+  - Meaning: long awaited rain, spring rain, timely rain
+  - 22 years old, gender neutral
+  
+- Ho-su (호수, pronounced *hosu*)
+  - Role: Main character’s guardian
+  - Meaning: lake
+  - Appearance: Blue-white dragon in spirit form, elderly woman as one of their human forms
+  - ?? years old, gender neutral
 
-</div>
+- Ja-yu (자유, pronounced *jayu*)
+  - Role: One of the *San-ai* living in the forest from Ch. 1
+  - Meaning: freedom
+  - Appearance: Jade green eyes
+  - 8-9 years old, female
+
+- Bit-na (빛나, pronounced *bitna* but phonetically *bichna*)
+  - Role: Catalyst for Dan-bi’s journey from Ch. 0
+  - Meaning: shining
+  - 14 years old, female
+
+- Yi-sul (이슬, pronounced *eeseul*)
+  - Role: One of the *San-ai* in Ch. 2
+  - Meaning: dew
+  - Appearance: lithe, golden-skinned young man
+  - 20-22 years old, male
+
+- An-ghe (안개, pronounced *angae*)
+  - Role: Yi-sul’s guardian
+  - Meaning: mist, fog
+  - Appearance (not shown): a large phoenix-like bird
+  - ?? years old, gender neutral
+
+- San-ai (산 아이, pronounced *sanai*)
+  - Term for the children who were born and raised in the mountain and whose parents left the seven villages 
+  - Meaning: mountain child
+
