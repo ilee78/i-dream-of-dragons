@@ -78,3 +78,5 @@ Though the names of all the villages are not explicitly stated, each of the seve
 </table>
 
 Additionally, each character’s name is significant, and the meaning of their name is intended to complement the meaning of their assigned guardian’s name.
+
+</div>
